@@ -1,5 +1,8 @@
 // Color system
 
+$iutPrimary: #F7B000;
+$iutSecondary: #4D3677;
+
 $white:    #fff;
 $gray-100: #f8f9fa;
 $gray-200: #e9ecef;
@@ -17,14 +20,14 @@ $black:    #1d2d35;
 $beige:    #fbf7f0;
 
 // $red:      #e55235;
-$purple:   #5d2f86;
+$purple:   #4D3677; //couleur secondaire IUT
 $brown:    #aa9c84;
 
 $blue-300: #8ed6fb;
 $pink-100: #fcfaff;
 $pink-500: #d32e9d;
 
-$primary: $purple;
+$primary: $iutPrimary;
 
 $color-btn-bg: $pink-500;
 $color-btn-border: darken($pink-500, 5%);
@@ -164,7 +167,7 @@ $alert-color-scale:                 0;
 
 // docsearch
 $dropdown-config: (
-  main-color: $purple,
+  main-color: $iutPrimary,
   layout-type: normal,
   layout-width: normal,
   layout-alignment: align,

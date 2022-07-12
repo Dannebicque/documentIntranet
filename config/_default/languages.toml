@@ -1,3 +1,12 @@
+[fr]
+  languageName = "Français"
+  contentDir = "content/fr"
+  weight = 5
+  [fr.params]
+    languageISO = "FR"
+    languageTag = "fr-FR"
+    titleAddition = "Documentation de l'intranet des IUT"
+
 [en]
   languageName = "English"
   contentDir = "content/en"

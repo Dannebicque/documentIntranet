@@ -1,8 +1,8 @@
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+#[[docs]]
+#  name = "Prologue"
+#  weight = 10
+#  identifier = "prologue"
+#  url = "/docs/prologue/"
 
 [[docs]]
   name = "Help"
@@ -10,6 +10,11 @@
   identifier = "help"
   url = "/docs/help/"
 
+[[docs]]
+  name = "Etudiants"
+  weight = 20
+  identifier = "etudiants"
+  url = "/docs/01-etudiant/"
 # [[docs]]
 #   name = "Lorem"
 #   weight = 70
