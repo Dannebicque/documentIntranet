@@ -5,12 +5,17 @@
 
 ## Je suis étudiant
 
-* [Page 1](je-suis-etudiant/page-1.md)
+* [Présentation](je-suis-etudiant/intro.md)
+* [Mon Emploi du temps](je-suis-etudiant/edt.md)
+* [Mes notes](je-suis-etudiant/notes.md)
+* [Mes rattrapages](je-suis-etudiant/intro.md)
+* [Mes absences](je-suis-etudiant/intro.md)
 
 ## Je suis enseignant
 
-* [Page 2](je-suis-enseignant/page-2.md)
+* [Présentation](je-suis-enseignant/intro.md)
 
 ## Je suis gestionnaire (assistant, chef, RP, ...)
 
-* [Page 3](je-suis-gestionnaire-assistant-chef-rp-.../page-3.md)
+* [Présentation](je-suis-gestionnaire-assistant-chef-rp-.../intro.md)
+* [Les processus](je-suis-gestionnaire-assistant-chef-rp-.../process.md)
