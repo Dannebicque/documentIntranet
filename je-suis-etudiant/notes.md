@@ -1,3 +1,3 @@
-## Visualisation des notes
+# Suivre ses notes
 
-## Demandes de rattrapages 
+## Comment visualiser ses notes ?
