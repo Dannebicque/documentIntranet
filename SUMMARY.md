@@ -6,7 +6,8 @@
 ## les processus
 
 * [Les processus](les-processus/process.md)
-  
+* [Page](les-processus/page.md)
+
 ## Je suis étudiant
 
 * [Présentation](je-suis-etudiant/intro.md)
@@ -22,4 +23,3 @@
 ## Je suis gestionnaire (assistant, chef, RP, ...)
 
 * [Présentation](je-suis-gestionnaire-assistant-chef-rp-.../intro.md)
-
