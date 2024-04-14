@@ -19,6 +19,9 @@
 ## Je suis enseignant
 
 * [Présentation](je-suis-enseignant/intro.md)
+* [Gestion des étudiants](je-suis-enseignant/gestion_etudiants.md)
+* [Gestion des prévisionnels](je-suis-enseignant/gestion_previsionnel.md)
+* [Emploi du temps](je-suis-enseignant/edt.md)
 
 ## Je suis gestionnaire (assistant, chef, RP, ...)
 

@@ -1,18 +1,18 @@
-## Gestion des absences
+# Gestion des absences
 
-### Appel et saisie des présents {#gestion-des-absences} 
+## Appel et saisie des présents
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus in hendrerit gravida rutrum quisque non tellus orci. Malesuada proin libero nunc consequat interdum varius sit. Enim ut tellus elementum sagittis vitae et. Tempus quam pellentesque nec nam aliquam sem et tortor. Tempor orci eu lobortis elementum nibh. Netus et malesuada fames ac turpis egestas sed tempus urna. At augue eget arcu dictum varius duis. Ornare suspendisse sed nisi lacus sed viverra tellus. A cras semper auctor neque vitae tempus quam. Platea dictumst vestibulum rhoncus est pellentesque. Mi sit amet mauris commodo quis. Vitae justo eget magna fermentum iaculis eu. Fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque. Sed viverra ipsum nunc aliquet bibendum enim facilisis.
 
-<hr>
+---
 
-### Comment saisir ou supprimer une absence ? {#saisie_absence}
+## Comment saisir ou supprimer une absence ?
 
 Pour accéder à l'espace de gestion des absences, deux options s'offrent à vous :
 - L'accès depuis le Dashboard
 - L'accès depuis l'emploi du temps
 
-#### Accès depuis le Dashboard
+### Accès depuis le Dashboard
 
 Il suffit de vous rendre sur la page **Dashboard** où un espace nommé **Mes cours** est dédié à vos différentes actions en tant qu'enseignant.
 
@@ -42,13 +42,13 @@ Si vous souhaitez vérifier que votre étudiant est bien noté absent ou présen
 Vous y trouverez toutes les absences de l'étudiant en question, ainsi que celles que vous avez saisies.
 ![aperçu de l'espace Mes Cours](/images/absence8.png)
 
-#### Accès depuis l'emploi du temps
+### Accès depuis l'emploi du temps
 
 Risus in hendrerit gravida rutrum quisque non tellus orci. Malesuada proin libero nunc consequat interdum varius sit. Enim ut tellus elementum sagittis vitae et. Tempus quam pellentesque nec nam aliquam sem et tortor. Tempor orci eu lobortis elementum nibh. 
 
-<hr>
+---
 
-## Gestion des notes {#gestion-des-notes}
+## Gestion des notes
 
 ### Comment saisir une note ?
 
@@ -56,9 +56,9 @@ Pour saisir une note, il faut vous rendre sur la page **Dashboard** où un espac
 
 ![aperçu de l'espace Mes Cours](/images/evaluation1.jpeg)
 
-<hr>
+---
 
-## Suivi des périodes de stage et d'alternance {#suivi-des-periodes-de-stage-et-d-alternance}
+## Suivi des périodes de stage et d'alternance
 
 ### Accéder à la liste des étudiants que vous suivez
 
@@ -76,7 +76,7 @@ Sur cette page, vous avez :
 
 ![aperçu de l'espace Applications](/images/suivi01.png)
 
-<hr>
+---
 
 ### Editer une fiche de suivi pour un étudiant alternant
 
