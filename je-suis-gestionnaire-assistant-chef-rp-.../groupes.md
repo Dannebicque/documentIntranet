@@ -1,4 +1,4 @@
-## Gérer les groupes
+# Gérer les groupes
 
 Dans l'espace Administration, puis le semestre de votre choix vous pouvez accéder à la gestion des groupes en choisissant :
 
@@ -7,7 +7,7 @@ Dans l'espace Administration, puis le semestre de votre choix vous pouvez accéd
 
 ![Affichage d'un semestre en administration](images/page_semestre.png)
 
-### Structure des groupes
+## Structure des groupes
 
 La page de gestion de la structure des groupes se découpe en 3 parties.
 
@@ -15,7 +15,7 @@ La page de gestion de la structure des groupes se découpe en 3 parties.
 - Un formulaire pour ajouter un groupe dans la structure
 - La partie "type de groupe" qui permet de décrire les "type de groupe", c'est à dire CM, TD, TP, voire des groupes de type LV2 ou autres selon vos besoins.
 
-#### Gérer les groupes
+### Gérer les groupes
 
 Dans cette première partie de la page, vous pouvez éditer toutes les informations, les modifications sont sauvegardées automatiquement. 
 

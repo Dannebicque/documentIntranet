@@ -6,9 +6,8 @@
 ## les processus
 
 * [Les processus](les-processus/process.md)
-* [Page](les-processus/page.md)
 
-## Je suis étudiant
+<!-- ## Je suis étudiant
 
 * [Présentation](je-suis-etudiant/intro.md)
 * [Mon Emploi du temps](je-suis-etudiant/edt.md)
@@ -21,7 +20,7 @@
 * [Présentation](je-suis-enseignant/intro.md)
 * [Gestion des étudiants](je-suis-enseignant/gestion_etudiants.md)
 * [Gestion des prévisionnels](je-suis-enseignant/gestion_previsionnel.md)
-* [Emploi du temps](je-suis-enseignant/edt.md)
+* [Emploi du temps](je-suis-enseignant/edt.md) -->
 
 ## Je suis gestionnaire (assistant, chef, RP, ...)
 
