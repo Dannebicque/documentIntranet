@@ -6,6 +6,8 @@
 ## les processus
 
 * [Les processus](les-processus/process.md)
+* [Début d'année](les-processus/debut-annee.md)
+* [Fin d'année](les-processus/fin-annee.md)
 
 <!-- ## Je suis étudiant
 
