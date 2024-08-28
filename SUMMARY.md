@@ -26,3 +26,4 @@
 ## Je suis gestionnaire (assistant, chef, RP, ...)
 
 * [Présentation](je-suis-gestionnaire-assistant-chef-rp-.../intro.md)
+* [Gestion des groupes](je-suis-gestionnaire-assistant-chef-rp-.../groupes.md)
